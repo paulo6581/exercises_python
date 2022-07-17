@@ -1,0 +1,15 @@
+=> listas de exercícios em python:
+
+https://wiki.python.org.br/ListaDeExercicios
+
+http://www.galirows.com.br/meublog/programacao/exercicios-resolvidos-python/
+
+https://pynative.com/python-exercises-with-solutions/
+
+https://www.w3resource.com/python-exercises/
+
+https://www.practicepython.org
+
+https://www.studocu.com/pt-br/document/universidade-federal-do-reconcavo-da-bahia/processamento-de-dados-i-basica/exercicios-listas-em-python/5780242
+
+
