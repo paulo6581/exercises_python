@@ -44,7 +44,7 @@ if is_number(area):
     area = float(area)
     x_litros = area/6   
     arrendonda_10 = (x_litros*10)/100
-    # Apenas latas
+    # Apenas latas                                       
     if x_litros >= 18: 
         n_latas = round(x_litros/18)
         print(f'Compre {n_latas} latas de 18 litros.')

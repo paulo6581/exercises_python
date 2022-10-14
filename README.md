@@ -2,5 +2,7 @@
 <hr>
 <h2>Types of the Exercises:</h2>
 <ul>
-<li> Practice 1 - Estructure sequencial</li>
+    <li> Practice 1 - Estructure sequencial</li>
+    <li>ola mundo</li>
+
 </ul>
